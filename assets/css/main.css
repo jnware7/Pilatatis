@@ -1354,9 +1354,9 @@
 		text-decoration: none;
 	}
 
-		a:hover {
-			border-bottom-color: transparent !important;
-			color: #bfb3db !important;
+			a:hover {
+			border-bottom-color: transparent ;
+			color: #a08cd1;
 			text-decoration: none;
 		}
 
